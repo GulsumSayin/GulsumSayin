@@ -44,6 +44,3 @@ Tech: *TensorFlow, Keras, EfficientNet, Transfer Learning, Grad-CAM*
 - I love participating in interdisciplinary projects that combine software, data, and real-world applications.
 - My goal is to specialize in **computer vision, deep learning, and intelligent environmental monitoring systems**.
 
----
-
-⭐ **Thank you for visiting my profile!**

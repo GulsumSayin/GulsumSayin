@@ -1,46 +1,72 @@
 <h1 align="center">Hi 👋, I'm Gülsüm Sayın</h1>
-<h3 align="center">A passionate computer engineer & AI enthusiast from Turkey</h3>
+
+<h3 align="center">
+Computer Engineering | AI, Computer Vision & Data Analytics Enthusiast
+</h3>
 
 ---
 
-### What I'm currently learning
-- Python for Data Science  
-- Machine Learning & Deep Learning  
-- Computer Vision with TensorFlow/Keras  
+## 🚀 About Me
 
-### 📫 How to reach me
-- Email: **glsmsyn24@gmail.com**
-- LinkedIn:  
-  <a href="https://www.linkedin.com/in/gulsumsayin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+I'm a Computer Engineering student passionate about Artificial Intelligence, Computer Vision, Data Analytics, and Remote Sensing technologies.
+
+- 🎯 Project Leader of a TÜBİTAK 2209-A project focused on AI-based post-disaster damage assessment
+- 🛰️ Team member in TEKNOFEST 2025 satellite-based environmental monitoring project
+- 📊 Experienced in customer analytics, segmentation, and data pipeline automation through my internship at AgeSA
+- 🤖 Interested in building intelligent systems that bridge research and real-world applications
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **glsmsyn24@gmail.com**
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/gulsumsayin">LinkedIn Profile</a>
 
 ---
 
 ## 🛠️ Languages and Tools
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
-### 🔬 **OSCC Histopathology Classification (Deep Learning)**
-A deep learning system for detecting Oral Squamous Cell Carcinoma using histopathological images.  
-Tech: *TensorFlow, Keras, EfficientNet, Transfer Learning, Grad-CAM*
 
-🔗 Repo: https://github.com/GulsumSayin/OSCC-Histopathology-Classification
+### 🛰️ AI-Based Post-Disaster Damage Assessment
+**TÜBİTAK 2209-A Project Leader**
+
+- Developed a U-Net++ based deep learning model for damage detection from satellite imagery.
+- Built a mobile-assisted solution using FastAPI and Flutter.
+
+### 🌱 Smart Environmental Monitoring System
+**TEKNOFEST 2025**
+
+- Conducted satellite image segmentation and environmental analysis.
+- Developed AI-supported approaches for monitoring forests and water resources.
 
 ---
 
-### 🎓 Some facts about me
-- I enjoy working on AI and computer vision projects, especially those involving **image processing, UAV data, and remote sensing**.
-- I love participating in interdisciplinary projects that combine software, data, and real-world applications.
-- My goal is to specialize in **computer vision, deep learning, and intelligent environmental monitoring systems**.
+## 🎯 Research Interests
 
+- Computer Vision
+- Deep Learning
+- Remote Sensing & Geospatial AI
+- Semantic Segmentation
+- Data Analytics
+- Intelligent Environmental Monitoring Systems
+
+---
+
+## 📈 Current Goals
+
+- Advancing expertise in Computer Vision and Deep Learning
+- Developing AI-powered solutions for environmental and societal challenges
+- Contributing to impactful research and real-world AI applications
